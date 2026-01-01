@@ -1,2 +1,2 @@
 # Tensai
-The Backend That Builds Itself!
+The Backend That Builds Itself
